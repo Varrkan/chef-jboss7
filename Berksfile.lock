@@ -1,0 +1,10 @@
+DEPENDENCIES
+  java
+  jboss
+    path: .
+    metadata: true
+
+GRAPH
+  java (1.28.0)
+  jboss (1.2.0)
+    java (>= 0.0.0)
